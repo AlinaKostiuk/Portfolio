@@ -1,5 +1,3 @@
-# Portfolio
-***
 ## Alina Zaitseva
 
 Phone: +7 (953) 081-90-77  
@@ -33,7 +31,7 @@ The database analysed in the project is a PostgreSQL demonstration database, the
 ***
 ## Visualization
 
-### **Kisckstarter**
+### **Kickstarter**
 
 [Link to the project](https://github.com/AlinaKostiuk/Portfolio/blob/main/ks_visualisation/kickstarter_visualisation_en.ipynb)
 

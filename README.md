@@ -1,5 +1,3 @@
-# Портфолио
-***
 ## Алина Зайцева
 
 телефон: +7 (953) 081-90-77  
@@ -32,7 +30,7 @@ Telegram: @alina_k_zaitseva
 ***
 ## Visualization
 
-### **Kisckstarter**
+### **Kickstarter**
 
 [Ссылка на проект](https://github.com/AlinaKostiuk/Portfolio/blob/main/ks_visualisation/kickstarter_visualisation_ru.ipynb)
 
